@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aynulamna&label=Profile%20views&color=0e75b6&style=flat" alt="aynulamna" /> </p>
 
-- 🌱 I’m currently learning **#Automationtesting #Full-Stack Development #Project Management**
+- 🌱 I’m currently learning **Automationtesting,Full-Stack Development and Project Management**
 
 - 👯 I’m looking to collaborate on **other QA Engineers**
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/aynulamna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aynulamna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/a.a.a tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a.a.a tech" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/aynul-amna-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aynulamna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKm4PmftBkTgJJyqTaVbYxA/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a.a.a tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
