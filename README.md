@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aynul Amna</h1>
-<h3 align="center">A passionate QA Engineer and Full Stack Developer</h3>
+<h3 align="center">A passionate QA Engineer and AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aynulamna&label=Profile%20views&color=0e75b6&style=flat" alt="aynulamna" /> </p>
 
-- 🌱 I’m currently learning **Automationtesting,Full-Stack Development and Project Management**
+- 🌱 I’m currently learning **Data Science, AI, Microsoft Azure**
 
-- 👯 I’m looking to collaborate on **other QA Engineers**
+- 👯 I’m looking to collaborate on **IT Industry**
 
 - 📝 I regularly write articles on [https://amnaman.law.blog/2021/11/21/algorithms-in-programming/](https://amnaman.law.blog/2021/11/21/algorithms-in-programming/)
 
