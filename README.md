@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aynul Amna</h1>
-<h3 align="center">A passionate QA Engineer and AI Engineer</h3>
+<h3 align="center">Software Engineer Trainee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aynulamna&label=Profile%20views&color=0e75b6&style=flat" alt="aynulamna" /> </p>
 
-- 🌱 I’m currently learning **Data Science, AI, Microsoft Azure**
+- 🌱 I’m currently learning **Project Management**
 
 - 👯 I’m looking to collaborate on **IT Industry**
 
